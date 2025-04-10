@@ -30,7 +30,7 @@ In the  AirBnb_Bookings_Analysis_EDA_Submission.ipynb  notebook, we explored the
 
 Interactive visualizations were created using Tableau to support deeper insights into trends and patterns.
 
-[View Tableau Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiYjFlYTIyYTgtY2NmOS00ZmY2LTg3NTktZTIzODg2MGQ3ZDIxIiwidCI6IjFjYjBhZmZjLWUzOTEtNGU3Zi1hNDU3LWY5YmJkOGRhZDE0NSJ9](https://public.tableau.com/app/profile/manikanta.tangi/viz/AirBnbDataViz_17180363001070/Dashboard1))
+[View Tableau Dashboard](https://public.tableau.com/app/profile/manikanta.tangi/viz/AirBnbDataViz_17180363001070/Dashboard1)
 
 ## Technologies Used
 - Python 3
